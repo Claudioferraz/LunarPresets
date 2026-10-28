@@ -1,0 +1,51 @@
+{
+  "ano": "2026",
+  "projeto": "Registro",
+  "nome_se": "SE REGISTRO",
+  "responsavel": "Claudio Ibarrola",
+  "data": "23/10/2026",
+  "endereco": "Rodoviária Euclides Cunha Sp 320 – s/n Km 513, Votuporanga – SP, 15500-000",
+  "numero_do_projeto": "010101010",
+  "contratada": "AREA 19",
+  "contratante": "Cliente",
+  "excluir_fotos_usadas": true,
+  "excel_arquivo": "REG - Enviada_v0.xlsx",
+  "titulo_software": "Relatório Fotográfico",
+  "versao": "2.2.0",
+  "cores": {
+    "primaria": "#CC0000",
+    "secundaria": "#1E88E5",
+    "fundo_capa": "#F2F0EB",
+    "fundo_cinza": "#D9D9D9",
+    "texto_destaque": "#CC0000"
+  },
+  "dashboard": {
+    "etapas": [
+      "Projeto Executivo",
+      "Mobilizacao",
+      "Infraestrutura",
+      "Instalacao de\nEquipamentos",
+      "Configuracoes",
+      "Testes"
+    ],
+    "etapas_finais": [
+      "Comissionamento",
+      "Aceite"
+    ],
+    "tarefas": [
+      [
+        "Validação de Presets",
+        "Cliente",
+        "08/10/2024",
+        "Indefinido"
+      ],
+      [
+        "Ajustes de Presets",
+        "AREA 19",
+        "08/10/2024",
+        "Responsável"
+      ]
+    ]
+  },
+  "texto_aceite": "Conforme as Especificações Técnicas em contrato, as partes concordam que o projeto de Teleassistência operativa na Subestação {nome_se} foi concluído com a execução de todas as fases e resultados previstos e definidos inicialmente, todos os presets validados.\n\nLembrando, por fim, que a assinatura deste documento representa a concordância do Contratante com os termos aqui estabelecidos."
+}
